@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yuvraj_portfolio/static/css/main.c88dda6e.css",
+    "main.js": "/yuvraj_portfolio/static/js/main.f2b1b460.js",
+    "static/js/787.91365b75.chunk.js": "/yuvraj_portfolio/static/js/787.91365b75.chunk.js",
+    "static/media/herobg2.jpg": "/yuvraj_portfolio/static/media/herobg2.89a92beea883f2349b5f.jpg",
+    "static/media/weatherapp.png": "/yuvraj_portfolio/static/media/weatherapp.b9eaf4c7b7801192478e.png",
+    "static/media/biopic.png": "/yuvraj_portfolio/static/media/biopic.1b1f8725e880861ab6ca.png",
+    "static/media/moviebook.png": "/yuvraj_portfolio/static/media/moviebook.8dc7ddbc47abe2206a4b.png",
+    "static/media/youtubeCourses.png": "/yuvraj_portfolio/static/media/youtubeCourses.ad59fd17c4d2fb41d30e.png",
+    "static/media/extensionpic.png": "/yuvraj_portfolio/static/media/extensionpic.a5b9d6dad48ccc1b0694.png",
+    "static/media/edtech.png": "/yuvraj_portfolio/static/media/edtech.13b605db5dd25c064c05.png",
+    "static/media/Pacifico-Regular.ttf": "/yuvraj_portfolio/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/newsapp.png": "/yuvraj_portfolio/static/media/newsapp.468b6d16d0f3d504e29f.png",
+    "static/media/her0.png": "/yuvraj_portfolio/static/media/her0.8a9f52c5af4b636c7583.png",
+    "static/media/github.jpg": "/yuvraj_portfolio/static/media/github.8453913d2f0df55fa1fb.jpg",
+    "static/media/web.png": "/yuvraj_portfolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/comp.webp": "/yuvraj_portfolio/static/media/comp.c52040a7bbd51c50c1c1.webp",
+    "index.html": "/yuvraj_portfolio/index.html",
+    "main.c88dda6e.css.map": "/yuvraj_portfolio/static/css/main.c88dda6e.css.map",
+    "main.f2b1b460.js.map": "/yuvraj_portfolio/static/js/main.f2b1b460.js.map",
+    "787.91365b75.chunk.js.map": "/yuvraj_portfolio/static/js/787.91365b75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88dda6e.css",
+    "static/js/main.f2b1b460.js"
+  ]
+}
